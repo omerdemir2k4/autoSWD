@@ -1,3 +1,4 @@
+from model_unet import AttentionResUNet
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 class EEGDataset(Dataset):

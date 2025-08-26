@@ -16,4 +16,5 @@ Data is created using EDF files and Excel annotations. The workflow is optimized
 
 ## Attention-ResUNet
 
-<img src="./img/unet_architecture.png" width="600">
+<img src="./img/unet_architecture.png" width="600">    <img src="./img/resblock.png" width="153">
+

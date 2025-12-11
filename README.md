@@ -19,5 +19,5 @@ As a testing measure, LOOCV was performed for 13 different recordings. Each one 
 
 ## Attention-ResUNet Architecture
 
-<img src="./img/unet_architecture.png" width="600">    <img src="./img/resblock.png" width="153">
+<img src="./img/unet_architecture.png" width="600">
 

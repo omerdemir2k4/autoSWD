@@ -21,3 +21,10 @@ As a testing measure, LOOCV was performed for 13 different recordings. Each one 
 
 <img src="./img/unet_architecture.png" width="600">
 
+## AutoSWD User Interface
+
+<img src="./img/autoswd interface.png" width="600">
+
+AutoSWD user interface, developed by Bekir Arda Yıldırım. AutoSWD Detector runs inference with the CWT-Hybrid CNN, the Attention-ResUNet, or the combined model. Users can select and use the most convenient model for their data. The interface allows visualization and manual refinement of model-detected SWDs, including interactive adjustment of event boundaries, merging or splitting of detections, optional power spectral density (PSD) analysis, and export of finalized events to Microsoft Excel.
+
+

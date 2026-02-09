@@ -162,7 +162,7 @@ class DS_AttentionResUNet(nn.Module):
 
         self.final_conv = nn.Conv1d(64, out_channels, 1, 1, padding="same")
 
-        # =ก Deep supervision outputs
+        # =ยก Deep supervision outputs
         self.ds3 = nn.Conv1d(128, out_channels, 1)
         self.ds4 = nn.Conv1d(256, out_channels, 1)
 

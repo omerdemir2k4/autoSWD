@@ -1,6 +1,8 @@
 AutoSWD - Universal Package
 ===========================
 
+⚠️ Sample EDF and Attention-ResUNet model could not be uploaded on GitHub, but could be downloaded [here](https://drive.google.com/drive/folders/1XRuBrwPgplfdAam1x4VvuIo5aQBUqiul?usp=drive_link).
+
 Instructions for Windows:
 -------------------------
 1. Double-click "Run_Windows.bat".
